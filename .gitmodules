@@ -1,0 +1,3 @@
+[submodule "deps/nodelist"]
+	path = deps/nodelist
+	url = git@github.com:dshaw/nodelist.git
